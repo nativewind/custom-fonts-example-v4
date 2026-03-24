@@ -40,7 +40,8 @@
     },
     "assetBundlePatterns": ["**/*"],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.danstepanov.custom-fonts-v4"
     },
     "android": {
       "adaptiveIcon": {
